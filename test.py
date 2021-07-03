@@ -1,2 +1,4 @@
 print("Hello")
-Print("Edited this in Pycharm")
+print("This one i edited in console")
+print("please make changes")
+print("Edited this in Pycharm")
